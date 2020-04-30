@@ -21,7 +21,7 @@
     "load-grunt-tasks": "^5.1.0"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ogid": "git+https://github.com/ndxbxrme/ogid.git"
   }
 }
